@@ -26,6 +26,8 @@ let car = "Honda";
 car = parseInt(car);
 console.log(car);
 console.log(undefined + undefined);
+//or
+console.log(1 + undefined);
 console.log(Math.sqrt(-1));
 console.log(1 + NaN);
 console.log("hi" / 10);
